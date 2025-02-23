@@ -282,7 +282,7 @@ class Ui_Form(object):
         self.label_26.setText(_translate("Form", "RESULT:"))
         self.lineEdit21.setText(_translate("Form", "Result Here"))
 
-
+'''varsha'''
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
